@@ -3,6 +3,7 @@
 
 int main(int argc, char **argv)
 {
+    #ТЫ ПИДОР
     char first[255], last[255];
     askname(first, last);
     printf("hello %s %s!\n", first, last);
